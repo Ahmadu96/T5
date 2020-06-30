@@ -1,0 +1,6 @@
+Using Passive RFID tags:
+1- Enter the data of the holder including phone number
+2- The RFID antennas/reader sends radio waves to get the feedback from the tags.
+3- Using software to monitor all the tags.
+4- If two tags are close to each other less than specific distance send alert to phone number.
+5- Remove tag from the list if the tag left the hall   
